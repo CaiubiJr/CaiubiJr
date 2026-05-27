@@ -1,4 +1,4 @@
-<h2 align="left"># Olá! 👋 Eu sou o Caiubi Martins<br><br>💻 Sou apaixonado por tecnologia e atualmente estudo 'Python, estatística e desenvolvimento web'.  <br>🌱 Estou aprendendo sobre 'variáveis aleatórias, probabilidade condicional e independência'.  <br>⚡ Já desenvolvi sites usando 'HTML, CSS e JavaScript.</h2>
+<h2 align="left"># Olá! 👋 Eu sou o Caiubi Martins<br><br>💻 Sou apaixonado por tecnologia e atualmente estudo 'Python e desenvolvimento web'.  <br>🌱 Estou aprendendo sobre 'variáveis aleatórias, probabilidade condicional e independência'.  <br>⚡ Já desenvolvi sites usando 'HTML, CSS e JavaScript.</h2>
 
 ###
 
